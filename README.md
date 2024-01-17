@@ -20,6 +20,18 @@
 
 ---
 
+
+### 팀원
+
+---
+
+- **하준학** KAIST 전산학부 19학번  <a href="https://github.com/jannagi" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+    
+- **박은비** KAIST 전산학부 22학번  <a href="https://github.com/seoyuncho" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+---
+
+
+
 ## 게임 특징
 
 ---
